@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin: 20px;
+}
+
+.GenericInfo {
+  width: 1000px;
+  font-weight: bolder;
+  font-size: 24px;
+}
+
+.GenericInfo div {
+  padding: 8px 0px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.GenericInfo span {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.TotalOrders {
+  border-top: solid 1px;
+}

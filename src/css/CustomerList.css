@@ -1,0 +1,18 @@
+.CustomerList {
+  margin: 50px 0px;
+  font-family: arial, sans-serif;
+  width: 1000px;
+}
+
+.CustomerHeader {
+  padding: 8px;
+  font-weight: bolder;
+}
+
+.CustomerName li {
+  padding: 8px;
+}
+
+li:nth-child(even) {
+  background-color: rgba(75, 192, 192, 1);
+}

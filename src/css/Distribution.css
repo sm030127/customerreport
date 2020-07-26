@@ -1,0 +1,25 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 1000px;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(75, 192, 192, 1);
+}
+
+.Distribution {
+  margin: 50px 0px;
+}
+
+.DistributionTitle {
+  padding: 8px 0px;
+  font-weight: bolder;
+}
